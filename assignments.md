@@ -13,7 +13,7 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 * Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, Python, PHP}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
 * Properly cover the implemented feature by tests and documentation.
 * Setup a build system of your choice (makefile, cmake, gradle, ...) compiling the project (if relevant) and running the tests.
-* Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
+* Setup a CI/CD system (e.g. GitHub Actions, which is recommended on the GitHub).
 * Setup at least one extra step as a part of the CI process (e.g. style check).
 * Setup a `README.md` file for the repository and include a build or test status badge for the CI/CD results.
 * Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
